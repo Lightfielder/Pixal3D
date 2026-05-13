@@ -1,5 +1,5 @@
 git+https://github.com/microsoft/MoGe.git
-natten==0.21.0
+# natten==0.21.0
 diffusers==0.37.1
 accelerate==1.13.0
 gradio
