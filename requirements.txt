@@ -1,3 +1,10 @@
+# PyTorch 2.8+ with CUDA 12.4 support
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch>=2.8.0
+torchvision>=0.23.0
+torchaudio>=2.8.0
+
+# Other dependencies
 git+https://github.com/microsoft/MoGe.git
 # natten==0.21.0
 diffusers==0.37.1
